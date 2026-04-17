@@ -10,7 +10,7 @@
 <!-- PROFILE PICTURE — replace with your actual GitHub username -->
 <img src="https://github.com/[yourusername].png" width="100" style="border-radius:50%"/>
 
-# [Your Name]
+# [Dominic]
 
 <!-- Typing animation — edit the 'lines' param to change the phrases -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=[CS+Student];[Web+Developer];[Always+Learning])](https://git.io/typing-svg)
@@ -29,8 +29,8 @@ Computer Science student at **[University]**, Year [1/2/3/4].
 Focused on [your specialization, e.g. full-stack development / machine learning].
 I build things that [what your work does / who it helps].
 
-- 📍 Based in [City, Country]
-- 🏫 Expected graduation: [Year]
+- 📍 Based in [Angeles city]
+- 🏫 Expected graduation: [2027]
 - 💬 Ask me about: [topic], [topic], [topic]
 
 ---
